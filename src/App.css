@@ -1,0 +1,14 @@
+.headerflex{
+  display:flex;
+  flex-wrap: wrap;
+  width:100%;
+  justify-content: center;
+  
+}
+.responsive{
+  display:flex;
+  flex-wrap: wrap;
+  
+  justify-content: center;
+  
+}
